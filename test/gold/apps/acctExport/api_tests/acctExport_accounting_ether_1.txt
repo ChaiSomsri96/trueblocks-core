@@ -8256,8 +8256,8 @@
     "client": "0xdeadbeef",
     "namedFrom": {
       "0x00de4b13153673bcae2616b67bf822500d325fc3": {
-        "tags": "31-Gitcoin Grants:Grant",
-        "name": "Grant 0472 Example Public Health Project",
+        "tags": "31-Gitcoin:Admin",
+        "name": "Gitcoin Maintainer",
         "count": 1
       },
       "0x054993ab0f2b1acc0fdc65405ee203b4271bebe6": {
@@ -8301,12 +8301,12 @@
         "count": 1
       },
       "0x62051bfd3a4f7039a849142e6e5ea172cbda5949": {
-        "tags": "31-Gitcoin Grants:Grant",
+        "tags": "31-Gitcoin:Grants",
         "name": "Grant 0467 Gitcoin Developer Grant - Walid Mujahid وليد مجاهد",
         "count": 1
       },
       "0x6f620ba7907a3d9a6dda9821eeb4e59b3f69c367": {
-        "tags": "31-Gitcoin Grants:Grant",
+        "tags": "31-Gitcoin:Grants",
         "name": "Grant 0864 Dutch Swap: Digital Dutch Auctions for Everyone!",
         "count": 1
       },
@@ -8324,7 +8324,7 @@
     "unNamedFrom": {},
     "namedTo": {
       "0x7d655c57f71464b6f83811c55d84009cd9f5221c": {
-        "tags": "31-Gitcoin Grants:Core",
+        "tags": "31-Gitcoin:Core",
         "name": "GitCoin Grant 6,7,8",
         "is_contract": true,
         "count": 17
